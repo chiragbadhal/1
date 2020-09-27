@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="484" height="865" viewBox="0 0 484 865">
+  <defs>
+    <clipPath id="clip-_1_9">
+      <rect width="484" height="865"/>
+    </clipPath>
+  </defs>
+  <g id="_1_9" data-name="1 – 9" clip-path="url(#clip-_1_9)">
+    <rect width="484" height="865" fill="#a2b58e"/>
+    <g id="Rectangle_439" data-name="Rectangle 439" transform="translate(55 27)" fill="#a2b58e" stroke="#fff" stroke-width="4">
+      <rect width="375" height="812" rx="25" stroke="none"/>
+      <rect x="2" y="2" width="371" height="808" rx="23" fill="none"/>
+    </g>
+    <g id="Group_205" data-name="Group 205" transform="translate(6 40.5)">
+      <path id="Path_3199" data-name="Path 3199" d="M2.218,625.261c8.921-23.934,17.842-95.737,35.684-95.737,11.383,0,15.5,38.969,21.741,67.7,3.363,15.495,7.484,28.041,13.943,28.041,17.842,0,17.842-95.737,35.684-95.737s26.763,71.8,35.684,95.737" transform="translate(162.282 -227.024)" fill="none" stroke="#fff" stroke-width="8"/>
+      <text id="meon" transform="translate(160 461)" fill="#263e0d" font-size="60" font-family="Nunito-SemiBold, Nunito" font-weight="600"><tspan x="0" y="0">meon</tspan></text>
+    </g>
+    <g id="Status_bar" data-name="Status bar" transform="translate(73 32)">
+      <rect id="Rectangle_373" data-name="Rectangle 373" width="369" height="32" rx="13" transform="translate(-15)" opacity="0.2"/>
+      <path id="Icons" d="M23-10a5,5,0,0,1,5,5,5,5,0,0,1-5,5,5,5,0,0,1-5-5A5,5,0,0,1,23-10ZM40,0,34-10H46ZM0-10H10V0H0Z" transform="translate(300.512 20.094)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
