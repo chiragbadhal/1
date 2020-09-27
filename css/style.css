@@ -224,7 +224,7 @@ a, a:hover {
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
   padding: 10px 7px;
   display: block;
-  color: #fff;
+  color: maroon;
   font-size: 14px;
   position: relative;
 }
